@@ -1,1 +1,2 @@
-# BuildingMyFirstComplianceResource
+# main.tf
+terraform {
